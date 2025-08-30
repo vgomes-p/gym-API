@@ -1,0 +1,31 @@
+gym-API/ /*github repository*/
+├──project/   <-YOU ARE HERE
+│   ├── src/
+│   │   ├── athletes/
+│   │   │   ├── init.py
+│   │   │   ├── models.py
+│   │   │   ├── routes.py
+│   │   │   └── schemas.py
+│   │   ├── contrib/
+│   │   │   ├── init.py
+│   │   │   ├── database.py
+│   │   │   ├── models.py
+│   │   │   └── schemas.py
+│   │   ├── measurements/
+│   │   │   ├── init.py
+│   │   │   ├── models.py
+│   │   │   ├── routes.py
+│   │   │   └── schemas.py
+│   │   ├── routines/
+│   │   │   ├── init.py
+│   │   │   ├── models.py
+│   │   │   ├── routes.py
+│   │   │   └── schemas.py
+│   │   └── main.py
+│   ├── Makefile
+│   ├── docker-compose.yml
+│   └── requirements.txt
+├── .gitignore
+├── file_map
+├── LICENSE
+└── README.md
